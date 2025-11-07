@@ -493,192 +493,192 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZMsyjSr.png" group-title="Россия Региональные",viju TV1000
+#EXTINF:-1 group-title="Россия Региональные",viju TV1000
 http://stream1.cinerama.uz/1058/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Meak2y4.png" group-title="Россия Региональные",viju TV1000 russkoe
+#EXTINF:-1 group-title="Россия Региональные",viju TV1000 russkoe
 http://stream1.cinerama.uz/1059/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nNjMyAq.png" group-title="Россия Региональные",Кинопоказ
+#EXTINF:-1 group-title="Россия Региональные",Кинопоказ
 http://31.148.48.15/Kinopokaz/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w0ZE9QJ.png" group-title="Россия Региональные",Русский Бестселлер
+#EXTINF:-1 group-title="Россия Региональные",Русский Бестселлер
 http://31.148.48.15/Russkiy_Bestseller/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kKAM7dP.png" group-title="Россия Региональные",Tvoe TV HD
+#EXTINF:-1 group-title="Россия Региональные",Tvoe TV HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png" group-title="Россия Региональные",МТВ (Волгоград)
+#EXTINF:-1 group-title="Россия Региональные",МТВ (Волгоград)
 http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mxsBZaC.png" group-title="Россия Региональные",Поехали!
+#EXTINF:-1 group-title="Россия Региональные",Поехали!
 http://31.148.48.15/Poehali/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YXDeX8q.png" group-title="Россия Региональные",360° Новости
+#EXTINF:-1 group-title="Россия Региональные",360° Новости
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/FreeDOMUAlogo.svg/512px-FreeDOMUAlogo.svg.png" group-title="Россия Региональные",Freedom (FREEДOM) (UATV) (720p)
+#EXTINF:-1 group-title="Россия Региональные",Freedom (FREEДOM) (UATV) (720p)
 https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9WcnjQN.png" group-title="Россия Региональные",Астрахань 24 
+#EXTINF:-1 group-title="Россия Региональные",Астрахань 24 
 https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r5HzA6J.png" group-title="Россия Региональные",Известия
+#EXTINF:-1 group-title="Россия Региональные",Известия
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rtuChZR.png" group-title="Россия Региональные",КРИК-ТВ (Екатеринбург)
+#EXTINF:-1 group-title="Россия Региональные",КРИК-ТВ (Екатеринбург)
 http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/legendarnyy-24-ru.png" group-title="Россия Региональные",Легендарный 24
+#EXTINF:-1 group-title="Россия Региональные",Легендарный 24
 https://sevas.1tvcrimea.ru/legendarniy24.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hUjLRLy.png" group-title="Россия Региональные",Миллет
+#EXTINF:-1 group-title="Россия Региональные",Миллет
 https://live.trkmillet.ru/millet/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dj9c8Yd.png" group-title="Россия Региональные",Мир 24 
+#EXTINF:-1 group-title="Россия Региональные",Мир 24 
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7Jo7UAf.png" group-title="Россия Региональные",Abaza TV
+#EXTINF:-1 group-title="Россия Региональные",Abaza TV
 https://public.apsny.camera/tv_abaza_tv_to_site/index.m3u8
-#EXTINF:-1 tvg-logo="https://online-red.com/images/tv/sochi-live.png" group-title="Россия Региональные",Sochi Live HD 
+#EXTINF:-1 group-title="Россия Региональные",Sochi Live HD 
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mti9t9C.png" group-title="Россия Региональные",TV1 KG 
+#EXTINF:-1 group-title="Россия Региональные",TV1 KG 
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="Россия Региональные",TV BRICS
+#EXTINF:-1 group-title="Россия Региональные",TV BRICS
 http://brics.bonus-tv.ru/cdn/brics/russian/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bcw0s4V.png" group-title="Россия Региональные",Аист ТВ
+#EXTINF:-1 group-title="Россия Региональные",Аист ТВ
 http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CTFVEAb.png" group-title="Россия Региональные",Арис 24
+#EXTINF:-1 group-title="Россия Региональные",Арис 24
 http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IlL57Rm.png" group-title="Россия Региональные",Губерния (Самара) 
+#EXTINF:-1 group-title="Россия Региональные",Губерния (Самара) 
 http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4JUHIVS.png" group-title="Россия Региональные",Евразия (Орск) 
+#EXTINF:-1 group-title="Россия Региональные",Евразия (Орск) 
 https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/57deE7f.png" group-title="Россия Региональные",Енисей  
+#EXTINF:-1 group-title="Россия Региональные",Енисей  
 https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4PAcpfM.png" group-title="Россия Региональные",Звезда 
+#EXTINF:-1 group-title="Россия Региональные",Звезда 
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fw2Hkk4.png" group-title="Россия Региональные",Ингушетия ТВ
+#EXTINF:-1 group-title="Россия Региональные",Ингушетия ТВ
 https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7tNDKHe.png" group-title="Россия Региональные",К16 (Саров) 
+#EXTINF:-1 group-title="Россия Региональные",К16 (Саров) 
 http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DyJw1Pi.png" group-title="Россия Региональные",Кавказ 24 (Ставрополь)
+#EXTINF:-1 group-title="Россия Региональные",Кавказ 24 (Ставрополь)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BurrNTo.png" group-title="Россия Региональные",КТК 
+#EXTINF:-1 group-title="Россия Региональные",КТК 
 http://89.218.30.37/ktklive/live.hq/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hZXBD9F.png" group-title="Россия Региональные",Курай (Уфа) 
+#EXTINF:-1 group-title="Россия Региональные",Курай (Уфа) 
 https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AqWaJT8.png" group-title="Россия Региональные",Мир +2 
+#EXTINF:-1 group-title="Россия Региональные",Мир +2 
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AqWaJT8.png" group-title="Россия Региональные",Мир +4 
+#EXTINF:-1 group-title="Россия Региональные",Мир +4 
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AqWaJT8.png" group-title="Россия Региональные",Мир +7 
+#EXTINF:-1 group-title="Россия Региональные",Мир +7 
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XMyRwDk.png" group-title="Россия Региональные",МТРК 
+#EXTINF:-1 group-title="Россия Региональные",МТРК 
 https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LwXNUhf.png" group-title="Россия Региональные",НВК Саха 
+#EXTINF:-1 group-title="Россия Региональные",НВК Саха 
 https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZWgPVIC.png" group-title="Россия Региональные",Нижний Новгород 24 
+#EXTINF:-1 group-title="Россия Региональные",Нижний Новгород 24 
 https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dccsFAu.png" group-title="Россия Региональные",Ника ТВ 
+#EXTINF:-1 group-title="Россия Региональные",Ника ТВ 
 https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AH50pGT.png" group-title="Россия Региональные",НТМ (Народное Мордовии) 
+#EXTINF:-1 group-title="Россия Региональные",НТМ (Народное Мордовии) 
 https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.osnmedia.ru/wp-content/uploads/2024/11/osn-logo-header.png" group-title="Россия Региональные",ОСН
+#EXTINF:-1 group-title="Россия Региональные",ОСН
 http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8qdc6aO.png" group-title="Россия Региональные",Первый Городской (Одесса) 
+#EXTINF:-1 group-title="Россия Региональные",Первый Городской (Одесса) 
 http://91.194.79.46:8081/stream2/channel2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DTtK0z7.png" group-title="Россия Региональные",РТР Планета Азия
+#EXTINF:-1 group-title="Россия Региональные",РТР Планета Азия
 https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png" group-title="Россия Региональные",РТР Планета Евро
+#EXTINF:-1 group-title="Россия Региональные",РТР Планета Евро
 https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png" group-title="Россия Региональные",РТР Планета СНГ
+#EXTINF:-1 group-title="Россия Региональные",РТР Планета СНГ
 https://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0dRS4Cb.png" group-title="Россия Региональные",Телеканал 86 (Сургут)
+#EXTINF:-1 group-title="Россия Региональные",Телеканал 86 (Сургут)
 https://sitv.ru/hls/s86.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YWKJA1O.png" group-title="Россия Региональные",Эхо TV (Рязань) 
+#EXTINF:-1 group-title="Россия Региональные",Эхо TV (Рязань) 
 https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2pAHdAi.png" group-title="Россия Региональные",Amedia 1
+#EXTINF:-1 group-title="Россия Региональные",Amedia 1
 http://31.148.48.15/A1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z7HUU7V.png" group-title="Россия Региональные",RU TV
+#EXTINF:-1 group-title="Россия Региональные",RU TV
 https://hls-03-video.webcaramba.com/rutv/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/19R470V.png" group-title="Россия Региональные",Жар Птица
+#EXTINF:-1 group-title="Россия Региональные",Жар Птица
 http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Pg7K7eV.png" group-title="Россия Региональные",Матур ТВ 
+#EXTINF:-1 group-title="Россия Региональные",Матур ТВ 
 https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5xKqV1s.png" group-title="Россия Региональные",Радио Хит (Орск) 
+#EXTINF:-1 group-title="Россия Региональные",Радио Хит (Орск) 
 http://lova.me/hls/hit.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lbqM3K2.png" group-title="Россия Региональные",Радио Шансон
+#EXTINF:-1 group-title="Россия Региональные",Радио Шансон
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WsPlKJJ.png" group-title="Россия Региональные",Страна FM
+#EXTINF:-1 group-title="Россия Региональные",Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NqHla2V.png" group-title="Россия Региональные",Amedia 2
+#EXTINF:-1 group-title="Россия Региональные",Amedia 2
 http://31.148.48.15/A2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i2AP0hp.png" group-title="Россия Региональные",Ani
+#EXTINF:-1 group-title="Россия Региональные",Ani
 http://31.148.48.15/Ani/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B5FA62o.png" group-title="Россия Региональные",Радость моя
+#EXTINF:-1 group-title="Россия Региональные",Радость моя
 https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/deutsche-welle-ru.png" group-title="Россия Региональные",DW Russian 
+#EXTINF:-1 group-title="Россия Региональные",DW Russian 
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r3u0mxr.png" group-title="Россия Региональные",Univer TV  
+#EXTINF:-1 group-title="Россия Региональные",Univer TV  
 https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w4ys6zm.png" group-title="Россия Региональные",Астрахань.Ru TV 
+#EXTINF:-1 group-title="Россия Региональные",Астрахань.Ru TV 
 https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vruuPKF.png" group-title="Россия Региональные",Большая Азия
+#EXTINF:-1 group-title="Россия Региональные",Большая Азия
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IDotHmQ.png" group-title="Россия Региональные",БСТ (Башкирское)
+#EXTINF:-1 group-title="Россия Региональные",БСТ (Башкирское)
 https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zKH1b5k.png" group-title="Россия Региональные",Ветта 24 (Пермь) 
+#EXTINF:-1 group-title="Россия Региональные",Ветта 24 (Пермь) 
 http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gFMnaU5.png" group-title="Россия Региональные",Волгоград 24
+#EXTINF:-1 group-title="Россия Региональные",Волгоград 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jumkRvc.png" group-title="Россия Региональные",Дагестан 
+#EXTINF:-1 group-title="Россия Региональные",Дагестан 
 https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p7WzqGS.png" group-title="Россия Региональные",Зоо ТВ
+#EXTINF:-1 group-title="Россия Региональные",Зоо ТВ
 http://31.148.48.15/Zoo_TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TgZ8Uv1.png" group-title="Россия Региональные",Красная линия
+#EXTINF:-1 group-title="Россия Региональные",Красная линия
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
-#EXTINF:-1 tvg-logo="https://mirbelogorya.ru/images/logo/Logo_Mir_Belogorya_purple_gradient.png" group-title="Россия Региональные",Мир Белагорья 
+#EXTINF:-1 group-title="Россия Региональные",Мир Белагорья 
 http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lf1r9L6.png" group-title="Россия Региональные",РЖД ТВ 
+#EXTINF:-1 group-title="Россия Региональные",РЖД ТВ 
 http://hls.tva.cdnvideo.ru/tva/tva.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/chNBF5t.png" group-title="Россия Региональные",С1 (Сургут) 
+#EXTINF:-1 group-title="Россия Региональные",С1 (Сургут) 
 https://sitv.ru/hls/stv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FfULLr1.png" group-title="Россия Региональные",Салям (Уфа) 
+#EXTINF:-1 group-title="Россия Региональные",Салям (Уфа) 
 https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3cP2fmX.png" group-title="Россия Региональные",Своё HD
+#EXTINF:-1 group-title="Россия Региональные",Своё HD
 http://live.stv24.tv:8080/svoetv/HQ_video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v0OYe1d.png" group-title="Россия Региональные",Соловьев LIVE
+#EXTINF:-1 group-title="Россия Региональные",Соловьев LIVE
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rW1BeJC.png" group-title="Россия Региональные",ТВК 24 
+#EXTINF:-1 group-title="Россия Региональные",ТВК 24 
 https://air.tvk6.ru/tvk24/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1zbcZ3p.png" group-title="Россия Региональные",Телплюс ТВ (Астрахань)
+#EXTINF:-1 group-title="Россия Региональные",Телплюс ТВ (Астрахань)
 https://streaming.astrakhan.ru/telplushd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VqtPB7L.png" group-title="Россия Региональные",ТКР (Рязань) 
+#EXTINF:-1 group-title="Россия Региональные",ТКР (Рязань) 
 http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/561FRwI.png" group-title="Россия Региональные",Югра
+#EXTINF:-1 group-title="Россия Региональные",Югра
 https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r485aZL.png" group-title="Россия Региональные",Магнат ТВ
+#EXTINF:-1 group-title="Россия Региональные",Магнат ТВ
 https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IcWtXCZ.png" group-title="Россия Региональные",Ювелирочка ТВ 
+#EXTINF:-1 group-title="Россия Региональные",Ювелирочка ТВ 
 https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JhrTB82.png" group-title="Россия Региональные",Life TV 
+#EXTINF:-1 group-title="Россия Региональные",Life TV 
 http://lifetv.bitflip.ee/live/stream1_1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PruXLqS.png" group-title="Россия Региональные",Maná Tserkov' Onlayn
+#EXTINF:-1 group-title="Россия Региональные",Maná Tserkov' Onlayn
 https://w2.manasat.com/tserkov-online/smil:tserkov-online.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rKBaK56.png" group-title="Россия Региональные",TBN Baltia 
+#EXTINF:-1 group-title="Россия Региональные",TBN Baltia 
 http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fACHqmY.png" group-title="Россия Региональные",TV Maná Russkiy 
+#EXTINF:-1 group-title="Россия Региональные",TV Maná Russkiy 
 https://w1.manasat.com/tvmana-leste/smil:tvmana-leste.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ah6VnFJ.png" group-title="Россия Региональные",Надежда 
+#EXTINF:-1 group-title="Россия Региональные",Надежда 
 https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4fhBbam.png" group-title="Россия Региональные",Три Ангела 
+#EXTINF:-1 group-title="Россия Региональные",Три Ангела 
 https://hls.tv.3angels.ru/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Abg1fct.png" group-title="Россия Региональные",Хузур ТВ
+#EXTINF:-1 group-title="Россия Региональные",Хузур ТВ
 https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fIi8o0C.png" group-title="Россия Региональные",MyZen TV 
+#EXTINF:-1 group-title="Россия Региональные",MyZen TV 
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FqWkeXb.png" group-title="Россия Региональные",viju History
+#EXTINF:-1 group-title="Россия Региональные",viju History
 http://stream1.cinerama.uz/1046/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8xdU3Ry.png" group-title="Россия Региональные",Нано ТВ HD
+#EXTINF:-1 group-title="Россия Региональные",Нано ТВ HD
 http://s1.tv-nano.com/Nano_rec/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iwWxkl6.png" group-title="Россия Региональные",Sochi 24 HD
+#EXTINF:-1 group-title="Россия Региональные",Sochi 24 HD
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fXESG0l.png" group-title="Россия Региональные",viju+ Sport
+#EXTINF:-1 group-title="Россия Региональные",viju+ Sport
 http://stream1.cinerama.uz/1229/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BKaEtqL.png" group-title="Россия Региональные",Астрахань.Ru Sport 
+#EXTINF:-1 group-title="Россия Региональные",Астрахань.Ru Sport 
 https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Puk1Bhx.png" group-title="Россия Региональные",Муз союз 
+#EXTINF:-1 group-title="Россия Региональные",Муз союз 
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://epgx.site/p/tvoetv-humor.png" group-title="Россия Региональные",Твое ТВ Юмор
+#EXTINF:-1 group-title="Россия Региональные",Твое ТВ Юмор
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 
 
@@ -706,39 +706,39 @@ https://mhd128.iptv2022.com/p/qF5aTd5decDh9Lie-Hb-4w,1761681089/streaming/grozni
 
 
 
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Первый канал FHD.png" group-title="RUSSIA (тест)" tvg-id="1" catchup="default" tvg-rec="48",Первый канал FHD
+#EXTINF:-1 group-title="RUSSIA (тест)" tvg-id="1" catchup="default" tvg-rec="48",Первый канал FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1.png" group-title="RUSSIA (тест)" catchup="default" tvg-rec="48",PLANETA RTR
+#EXTINF:-1 group-title="RUSSIA (тест)" catchup="default" tvg-rec="48",PLANETA RTR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d51b.m3u8
 
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Неизвестная Россия.png" group-title="RUSSIA (тест)" tvg-id="9015" catchup="default" tvg-rec="48",Неизвестная Россия
+#EXTINF:-1 group-title="RUSSIA (тест)" tvg-id="9015" catchup="default" tvg-rec="48",Неизвестная Россия
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ HD.png" group-title="RUSSIA (тест)" tvg-id="4" catchup="default" tvg-rec="48",НТВ HD
+#EXTINF:-1 group-title="RUSSIA (тест)" tvg-id="4" catchup="default" tvg-rec="48",НТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ HD.png" group-title="RUSSIA (тест)" tvg-id="4" catchup="default" tvg-rec="48",НТВ HD
+#EXTINF:-1 group-title="RUSSIA (тест)" tvg-id="4" catchup="default" tvg-rec="48",НТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ +1.png" group-title="RUSSIA (тест)" catchup="default" tvg-rec="48",НТВ +1
+#EXTINF:-1 group-title="RUSSIA (тест)" catchup="default" tvg-rec="48",НТВ +1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 https://cdn.ntv.ru/ntv1/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ +2.png" group-title="RUSSIA (тест)" catchup="default" tvg-rec="48",НТВ +2
+#EXTINF:-1 group-title="RUSSIA (тест)" catchup="default" tvg-rec="48",НТВ +2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 https://cdn.ntv.ru/ntv2/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ +4.png" group-title="RUSSIA (тест)" tvg-id="2964" catchup="default" tvg-rec="48",НТВ +4
+#EXTINF:-1 group-title="RUSSIA (тест)" tvg-id="2964" catchup="default" tvg-rec="48",НТВ +4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 https://cdn.ntv.ru/ntv4/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ +7.png" group-title="RUSSIA (тест)" tvg-id="3028" catchup="default" tvg-rec="48",НТВ +7
+#EXTINF:-1 group-title="RUSSIA (тест)" tvg-id="3028" catchup="default" tvg-rec="48",НТВ +7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 https://cdn.ntv.ru/ntv7/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/РБК.png" group-title="RUSSIA (тест)" tvg-id="291" catchup="default" tvg-rec="48",РБК
+#EXTINF:-1 group-title="RUSSIA (тест)" tvg-id="291" catchup="default" tvg-rec="48",РБК
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://online.video.rbc.ru/online2/rbctv_1080p/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТВЦ.png" group-title="RUSSIA (тест)" tvg-id="674" catchup="default" tvg-rec="48",ТВЦ
+#EXTINF:-1 group-title="RUSSIA (тест)" tvg-id="674" catchup="default" tvg-rec="48",ТВЦ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 
@@ -771,15 +771,15 @@ https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8
 http://185.46.48.18:80/iriston/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/5441.png" group-title="RUSSIA (тест)",ТВОЕ ТВ HD
+#EXTINF:-1 group-title="RUSSIA (тест)",ТВОЕ ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2FWVxW3/Background-Eraser-20230805-095630572.png" group-title="RUSSIA (тест)",ТВОЕ ТВ HD - ЮМОР
+#EXTINF:-1 group-title="RUSSIA (тест)",ТВОЕ ТВ HD - ЮМОР
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10150/logo_256_1655387037.png" group-title="RUSSIA (тест)",Волга
+#EXTINF:-1 group-title="RUSSIA (тест)",Волга
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10539/logo_256_1655389509.png" group-title="RUSSIA (тест)",4 канал
+#EXTINF:-1 group-title="RUSSIA (тест)",4 канал
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10459/logo_128_1652790001.png" group-title="RUSSIA (тест)",Прима
+#EXTINF:-1 group-title="RUSSIA (тест)",Прима
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
 
 
@@ -806,34 +806,34 @@ http://rtmp.one.by:2300
 
 
 
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/The Pet Collective.png" group-title="Развлекательные" catchup="default" tvg-rec="48",The Pet Collective
+#EXTINF:-1 group-title="Развлекательные" catchup="default" tvg-rec="48",The Pet Collective
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ювелирочка.png" group-title="Развлекательные" tvg-id="1579" catchup="default" tvg-rec="48",Ювелирочка
+#EXTINF:-1 group-title="Развлекательные" tvg-id="1579" catchup="default" tvg-rec="48",Ювелирочка
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Витрина ТВ.png" group-title="Развлекательные" catchup="default" tvg-rec="48",Витрина ТВ
+#EXTINF:-1 group-title="Развлекательные" catchup="default" tvg-rec="48",Витрина ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://v4.proofix.ru/vitrina-live/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Магнат.png" group-title="Развлекательные" catchup="default" tvg-rec="48",Магнат
+#EXTINF:-1 group-title="Развлекательные" catchup="default" tvg-rec="48",Магнат
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Сарафан.png" group-title="Развлекательные" tvg-id="179" catchup="default" tvg-rec="48",Сарафан
+#EXTINF:-1 group-title="Развлекательные" tvg-id="179" catchup="default" tvg-rec="48",Сарафан
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://31.148.48.15/Sarafan/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СТРК.png" group-title="Развлекательные" tvg-id="244" catchup="default" tvg-rec="48",СТРК
+#EXTINF:-1 group-title="Развлекательные" tvg-id="244" catchup="default" tvg-rec="48",СТРК
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://sochinskayatrk.ru/hdtv/hls/CTPK_HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Твоё ТВ Юмор.png" group-title="Развлекательные" catchup="default" tvg-rec="48",Твоё ТВ Юмор
+#EXTINF:-1 group-title="Развлекательные" catchup="default" tvg-rec="48",Твоё ТВ Юмор
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ Стиль.png" group-title="Развлекательные" tvg-id="1108" catchup="default" tvg-rec="48",НТВ Стиль
+#EXTINF:-1 group-title="Развлекательные" tvg-id="1108" catchup="default" tvg-rec="48",НТВ Стиль
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/2x2.png" group-title="Развлекательные" tvg-id="166" catchup="default" tvg-rec="48",2x2
+#EXTINF:-1 group-title="Развлекательные" tvg-id="166" catchup="default" tvg-rec="48",2x2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://31.148.48.15/2x2/tracks-v1a1/mono.m3u8?token=default
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кулинар.png" group-title="Развлекательные" catchup="default" tvg-rec="48",Кулинар
+#EXTINF:-1 group-title="Развлекательные" catchup="default" tvg-rec="48",Кулинар
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 
@@ -850,58 +850,58 @@ http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Моя Планета.png" group-title="Познавательные" tvg-id="339" catchup="default" tvg-rec="48",Моя Планета
+#EXTINF:-1 group-title="Познавательные" tvg-id="339" catchup="default" tvg-rec="48",Моя Планета
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://tv.streams.baikal-telecom.net:8080/Moya_Planeta/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Просвещение.png" group-title="Познавательные" tvg-id="456" catchup="default" tvg-rec="48",Просвещение
+#EXTINF:-1 group-title="Познавательные" tvg-id="456" catchup="default" tvg-rec="48",Просвещение
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/360° Международный HD.png" group-title="Познавательные" catchup="default" tvg-rec="48",360° Международный HD
+#EXTINF:-1 group-title="Познавательные" catchup="default" tvg-rec="48",360° Международный HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СТВ Беларусь.png" group-title="Познавательные" tvg-id="875" catchup="default" tvg-rec="48",СТВ Беларусь
+#EXTINF:-1 group-title="Познавательные" tvg-id="875" catchup="default" tvg-rec="48",СТВ Беларусь
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://edge50.dc.beltelecom.by/ctv/ctv.stream/chunklist_b5160000_sleng.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/RTG HD.png" group-title="Познавательные" tvg-id="311" catchup="default" tvg-rec="48",RTG HD
+#EXTINF:-1 group-title="Познавательные" tvg-id="311" catchup="default" tvg-rec="48",RTG HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://tv.streams.baikal-telecom.net:8080/RTG_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ЕГЭ.png" group-title="Познавательные" tvg-id="327" catchup="default" tvg-rec="48",ЕГЭ
+#EXTINF:-1 group-title="Познавательные" tvg-id="327" catchup="default" tvg-rec="48",ЕГЭ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://tv.streams.baikal-telecom.net:8080/RT_DOC/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Nano.png" group-title="Познавательные" tvg-id="341" catchup="default" tvg-rec="48",Nano
+#EXTINF:-1 group-title="Познавательные" tvg-id="341" catchup="default" tvg-rec="48",Nano
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://194.143.148.28:8080/NanoTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/UNIVER.png" group-title="Познавательные" catchup="default" tvg-rec="48",UNIVER
+#EXTINF:-1 group-title="Познавательные" catchup="default" tvg-rec="48",UNIVER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://cdn.universmotri.ru/live/univer.sdp_1080p/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Моя Планета.png" group-title="Познавательные" tvg-id="339" catchup="default" tvg-rec="48",Моя Планета
+#EXTINF:-1 group-title="Познавательные" tvg-id="339" catchup="default" tvg-rec="48",Моя Планета
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://194.143.148.28:8080/Nauka20/mpegts
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Просвещение.png" group-title="Познавательные" tvg-id="456" catchup="default" tvg-rec="48",Просвещение
+#EXTINF:-1 group-title="Познавательные" tvg-id="456" catchup="default" tvg-rec="48",Просвещение
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия К.png" group-title="Познавательные" tvg-id="6" catchup="default" tvg-rec="48",Россия К
+#EXTINF:-1 group-title="Познавательные" tvg-id="6" catchup="default" tvg-rec="48",Россия К
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ Право.png" group-title="Познавательные" tvg-id="340" catchup="default" tvg-rec="48",НТВ Право
+#EXTINF:-1 group-title="Познавательные" tvg-id="340" catchup="default" tvg-rec="48",НТВ Право
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Живая Планета.png" group-title="Познавательные" tvg-id="329" catchup="default" tvg-rec="48",Живая Планета
+#EXTINF:-1 group-title="Познавательные" tvg-id="329" catchup="default" tvg-rec="48",Живая Планета
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://31.148.48.15/Zhivaya_Planeta/tracks-v1a1/mono.m3u8?token=default
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Зоо ТВ.png" group-title="Познавательные" tvg-id="333" catchup="default" tvg-rec="48",Зоо ТВ
+#EXTINF:-1 group-title="Познавательные" tvg-id="333" catchup="default" tvg-rec="48",Зоо ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://31.148.48.15/Zoo_TV/tracks-v1a1/mono.m3u8?token=default
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/История.png" group-title="Познавательные" tvg-id="334" catchup="default" tvg-rec="48",История
+#EXTINF:-1 group-title="Познавательные" tvg-id="334" catchup="default" tvg-rec="48",История
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://31.148.48.15/Istoriya/tracks-v1a1/mono.m3u8?token=default
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Доктор.png" group-title="Познавательные" tvg-id="326" catchup="default" tvg-rec="48",Доктор
+#EXTINF:-1 group-title="Познавательные" tvg-id="326" catchup="default" tvg-rec="48",Доктор
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://31.148.48.15/Doktor/tracks-v1a1/mono.m3u8?token=default
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Авто Плюс.png" group-title="Познавательные" tvg-id="266" catchup="default" tvg-rec="48",Авто Плюс
+#EXTINF:-1 group-title="Познавательные" tvg-id="266" catchup="default" tvg-rec="48",Авто Плюс
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://31.148.48.15/Avto_Plus/tracks-v1a1/mono.m3u8?token=default
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Naturescape.png" group-title="Познавательные" catchup="default" tvg-rec="48",Naturescape
+#EXTINF:-1 group-title="Познавательные" catchup="default" tvg-rec="48",Naturescape
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://stream.ads.ottera.tv/cl/240211cn4j7g65sur7fq378vpg/1920x1080_5711200_3_f.m3u8
 
@@ -1039,268 +1039,266 @@ https://stream2.cinerama.uz/1486/tracks-v1a1/mono.m3u8
 https://stream1.cinerama.uz/1498/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/80f29007-3f69-44fd-a8de-4c5d9783beb1.png" group-title="O'zbekiston", O'zbekiston
+#EXTINF:-1 group-title="O'zbekiston", O'zbekiston
 https://stream1.cinerama.uz/1001/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/f9b7dca1-6d47-480d-9958-7ce77b63ba8d.png" group-title="O'zbekiston", Yoshlar
+#EXTINF:-1 group-title="O'zbekiston", Yoshlar
 https://stream1.cinerama.uz/1002/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/2eb5212f-fda5-42f3-a1cf-56bda22bbb77.png" group-title="O'zbekiston", Toshkent
+#EXTINF:-1 group-title="O'zbekiston", Toshkent
 https://stream1.cinerama.uz/1003/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2021/12/14/add3022f-0964-470f-acee-4441c9d49201.png" group-title="O'zbekiston", My5
+#EXTINF:-1 group-title="O'zbekiston", My5
 https://stream1.cinerama.uz/1012/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2021/12/14/044a1ecc-cf92-4c32-8a8b-54ce07c69546.png" group-title="O'zbekiston", Milliy TV
+#EXTINF:-1 group-title="O'zbekiston", Milliy TV
 https://stream1.cinerama.uz/1014/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/b9089482-082f-4eda-8b62-4de6c92b541f.png" group-title="O'zbekiston", Zo'r-TV
+#EXTINF:-1 group-title="O'zbekiston", Zo'r-TV
 https://stream1.cinerama.uz/1016/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/035fe5e3-f968-45fd-93af-31e4b91cdebf.png" group-title="O'zbekiston", Sevimli
+#EXTINF:-1 group-title="O'zbekiston", Sevimli
 https://stream1.cinerama.uz/1017/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2024/01/30/e2b9fdd9-560a-494f-bf8f-4a085d042624.jpeg" group-title="O'zbekiston", LuxTV
+#EXTINF:-1 group-title="O'zbekiston", LuxTV
 https://stream1.cinerama.uz/1210/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2023/08/14/5951e3a5-db4d-41c0-a9f2-1d485801aa0e.png" group-title="O'zbekiston", I-kbol
+#EXTINF:-1 group-title="O'zbekiston", I-kbol
 https://stream1.cinerama.uz/1282/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/16//486ab75fe90f29227f3d114adf7ff3e7-q-500x500.jpeg" group-title="O'zbekiston", 8TV
+#EXTINF:-1 group-title="O'zbekiston", 8TV
 http://95.85.109.219:7000/play/a05j
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2024/06/03/401ef362-9782-4679-a82d-0a5f03cf5205.jpeg" group-title="O'zbekiston", Farg'ona
+#EXTINF:-1 group-title="O'zbekiston", Farg'ona
 https://stream1.cinerama.uz/1458/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2024/06/03/38994bac-c9a5-4e72-b25e-cc25237390ac.jpeg" group-title="O'zbekiston", Xorazm
+#EXTINF:-1 group-title="O'zbekiston", Xorazm
 https://stream1.cinerama.uz/1464/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2024/06/03/1f22ee2a-440a-462a-879b-f02701b9e18a.jpeg" group-title="O'zbekiston", Surxondaryo
+#EXTINF:-1 group-title="O'zbekiston", Surxondaryo
 https://stream1.cinerama.uz/1463/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2021/12/14/56fe1797-3b4e-4f18-816b-e633ebc34316.png" group-title="O'zbekiston", Taraqqiyot tv
+#EXTINF:-1 group-title="O'zbekiston", Taraqqiyot tv
 https://stream1.cinerama.uz/1204/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2025/01/28/dbe98084-792d-4954-bc01-fc658317e3bf.png" group-title="O'zbekiston", Makon TV
+#EXTINF:-1 group-title="O'zbekiston", Makon TV
 https://stream2.cinerama.uz/1497/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2025/03/24/c58b1e89-4197-4534-bf89-605c9dc842ea.jpeg" group-title="O'zbekiston", Vodiy TV
+#EXTINF:-1 group-title="O'zbekiston", Vodiy TV
 https://stream2.cinerama.uz/4012/tracks-v1a1/mono.m3u8 
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2025/03/24/c454009d-156c-433b-ab68-079cb3e6d5d2.jpeg" group-title="O'zbekiston", JTV
+#EXTINF:-1 group-title="O'zbekiston", JTV
 https://stream8.cinerama.uz/1488/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2025/03/24/1702a7f8-8f1f-4d75-92b4-468a40c125bf.jpeg" group-title="O'zbekiston", Ishonch TV
+#EXTINF:-1 group-title="O'zbekiston", Ishonch TV
 https://stream2.cinerama.uz/1489/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2025/03/24/d8af2b7e-bee1-4ace-9fee-a8304d7f11b8.jpeg" group-title="O'zbekiston", Eliqqala TV
+#EXTINF:-1 group-title="O'zbekiston", Eliqqala TV
 https://stream2.cinerama.uz/1495/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2025/02/10/af774beb-b08b-4b1a-8d9d-cef336126e87.jpeg" group-title="O'zbekiston", Nasaf TV
+#EXTINF:-1 group-title="O'zbekiston", Nasaf TV
 https://stream2.cinerama.uz/2025/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2025/02/10/5842ad76-eef6-494b-acb8-ab79ef2cb70d.jpeg" group-title="O'zbekiston", JaslarTV
+#EXTINF:-1 group-title="O'zbekiston", JaslarTV
 https://stream8.cinerama.uz/1490/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2025/03/24/e242bb73-9172-4461-8ae3-f812ad7392db.jpeg" group-title="O'zbekiston", Amudaryo TV
+#EXTINF:-1 group-title="O'zbekiston", Amudaryo TV
 https://stream8.cinerama.uz/1491/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2025/03/24/b7d410f4-508c-4299-b118-d4107489c5c6.jpeg" group-title="O'zbekiston", Muloqot TV
+#EXTINF:-1 group-title="O'zbekiston", Muloqot TV
 https://stream2.cinerama.uz/1285/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cp.biz-media.org/media/portfolio/solnechniy_WtxdGnG.png" group-title="O'zbekiston", Солнечный тв
+#EXTINF:-1 group-title="O'zbekiston", Солнечный тв
 https://fl.biztv.media/stv_1080_bizstvvietfujeyrah/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2025/02/07/34d60aeb-fac7-4e70-9e17-c6c49163c3a2.jpeg" group-title="O'zbekiston", TTV Telekanal
+#EXTINF:-1 group-title="O'zbekiston", TTV Telekanal
 https://stream2.cinerama.uz/1494/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2025/02/07/007deac2-7440-43a8-892b-b1bb5a2be2ab.jpeg" group-title="O'zbekiston", TTV Kino
+#EXTINF:-1 group-title="O'zbekiston", TTV Kino
 https://stream2.cinerama.uz/1486/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/hjSBke6Y6pJhbAZQZdH59uY5rmm_MlDph8-CvJxg86pKwMdEE9598T52LAUrci9e2VZg=w240-h480-rw" group-title="O'zbekiston", tasix-media kino
+#EXTINF:-1 group-title="O'zbekiston", tasix-media kino
 https://tt.tas-ix.media:444/telegram/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2025/02/07/f9bf163d-632a-49f5-928c-a40d47df8bf7.jpeg" group-title="O'zbekiston", Cinema (uzb)
+#EXTINF:-1 group-title="O'zbekiston", Cinema (uzb)
 https://stream1.cinerama.uz/1498/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2022/12/07/61bc27f8-5c9f-4f79-87fd-648b76039d4c.jpg" group-title="O'zbekiston", BIZ TV
+#EXTINF:-1 group-title="O'zbekiston", BIZ TV
 https://stream8.cinerama.uz/1211/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2024/02/20/411653eb-8eec-4a1c-852c-114b37be5689.jpeg" group-title="O'zbekiston", BIZ Cinema
+#EXTINF:-1 group-title="O'zbekiston", BIZ Cinema
 https://stream1.cinerama.uz/1213/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2025/05/02/bb99693b-cc61-4f7d-828a-b2096cd239db.png" group-title="O'zbekiston", Itv Cinema
+#EXTINF:-1 group-title="O'zbekiston", Itv Cinema
 https://stream2.cinerama.uz/4000/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/5e8a53f0-c142-4e88-887b-df7491f6d0fe.png" group-title="O'zbekiston", Kinoteatr
+#EXTINF:-1 group-title="O'zbekiston", Kinoteatr
 https://stream1.cinerama.uz/1009/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2025/03/24/3b397981-ece6-4fb9-a66f-29b07d234f0f.jpeg" group-title="O'zbekiston", Shifo TV
+#EXTINF:-1 group-title="O'zbekiston", Shifo TV
 https://stream2.cinerama.uz/1469/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/61708bfe-535d-4e03-81aa-5a949b9ba443.png" group-title="O'zbekiston", Bolajon
+#EXTINF:-1 group-title="O'zbekiston", Bolajon
 https://stream1.cinerama.uz/1007/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2021/12/14/e9b2085d-5064-4189-99a4-b8615dc39e78.png" group-title="O'zbekiston", Aqlvoy
+#EXTINF:-1 group-title="O'zbekiston", Aqlvoy
 https://stream1.cinerama.uz/1205/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/J1X3QmF7XeYqjSzb0680kdrNlUYiVLg44VO3T_cY23-fq9VTxa55x4e31x00zoK1H7E=w240-h480-rw" group-title="O'zbekiston", Travel-tv (O'zbekiston)
+#EXTINF:-1 group-title="O'zbekiston", Travel-tv (O'zbekiston)
 https://fl.biztv.media/TabiatTV_1080/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2025/02/07/f2b46d1e-4104-463f-8851-f08fb082dbf5.jpeg" group-title="O'zbekiston", Live TV
+#EXTINF:-1 group-title="O'zbekiston", Live TV
 https://stream1.cinerama.uz/1475/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2023/08/14/23bab5dc-4a74-4db8-8a30-6b10918cdd4f.png" group-title="O'zbekiston", MYDAYTV
+#EXTINF:-1 group-title="O'zbekiston", MYDAYTV
 https://stream1.cinerama.uz/1265/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.uzd.udevs.io/uzdigital-images-compressed/images/1e4ee1ad-c3d4-4131-bc43-74b7a1e29ea2.png" group-title="O'zbekiston", Navo
+#EXTINF:-1 group-title="O'zbekiston", Navo
 https://stream1.cinerama.uz/1008/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/656157a5-310c-4ea8-8c7f-a5d7db68c409.png" group-title="O'zbekiston", Madaniyat va ma'rifat
+#EXTINF:-1 group-title="O'zbekiston", Madaniyat va ma'rifat
 https://stream1.cinerama.uz/1005/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2021/04/27/4db20de5-0bb9-4126-b12e-908d327ecf70.png" group-title="O'zbekiston", Dasturxon
+#EXTINF:-1 group-title="O'zbekiston", Dasturxon
 https://stream1.cinerama.uz/1206/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/005922d7-3bd7-4eab-9146-4d5dea1d949b.png" group-title="O'zbekiston", Dunyo Bo'ylab
+#EXTINF:-1 group-title="O'zbekiston", Dunyo Bo'ylab
 https://stream1.cinerama.uz/1006/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2023/09/11/1285670f-8da5-4d02-a789-70031bec9c95.png" group-title="O'zbekiston", RTV
+#EXTINF:-1 group-title="O'zbekiston", RTV
 https://stream8.cinerama.uz/1221/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/2fa215cc-332c-4181-8d30-cb32ab9b7f61.png" group-title="O'zbekiston", O'zbekiston4
+#EXTINF:-1 group-title="O'zbekiston", O'zbekiston4
 https://stream1.cinerama.uz/1011/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/c037c019-f6e7-41fb-8001-d5adeec3b69a.png" group-title="O'zbekiston", O'zbekiston tarixi
+#EXTINF:-1 group-title="O'zbekiston", O'zbekiston tarixi
 https://stream1.cinerama.uz/1209/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/257d6f2f-a233-4e37-8767-af7d224876f8.png" group-title="O'zbekiston", Mahalla
+#EXTINF:-1 group-title="O'zbekiston", Mahalla
 https://stream1.cinerama.uz/1013/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/b72767f1-cb87-48f3-b299-ee1b2fd06795.png" group-title="O'zbekiston", Uzreport
+#EXTINF:-1 group-title="O'zbekiston", Uzreport
 https://stream1.cinerama.uz/1015/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2023/01/04/2a6ba8bc-7ec9-4c01-84b1-66699ff68d5c.png" group-title="O'zbekiston", Setanta Sports 1
+#EXTINF:-1 group-title="O'zbekiston", Setanta Sports 1
 https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2023/01/04/582bec09-2662-4cf0-adb5-6584f5c26f7b.png" group-title="O'zbekiston", Setanta Sports 2
+#EXTINF:-1 group-title="O'zbekiston", Setanta Sports 2
 https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/80f29007-3f69-44fd-a8de-4c5d9783beb1.png" group-title="O'zbekiston", O'zbekiston
+#EXTINF:-1 group-title="O'zbekiston", O'zbekiston
 https://vod.splay.uz/live_splay/original/Uzbekiston/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/f9b7dca1-6d47-480d-9958-7ce77b63ba8d.png" group-title="O'zbekiston", Yoshlar
+#EXTINF:-1 group-title="O'zbekiston", Yoshlar
 https://vod.splay.uz/live_splay/original/YoshlarHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/2eb5212f-fda5-42f3-a1cf-56bda22bbb77.png" group-title="O'zbekiston", Toshkent
+#EXTINF:-1 group-title="O'zbekiston", Toshkent
 https://vod.splay.uz/live_splay/original/Toshkent/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/005922d7-3bd7-4eab-9146-4d5dea1d949b.png" group-title="O'zbekiston", Dunyo Bo'ylab
+#EXTINF:-1 group-title="O'zbekiston", Dunyo Bo'ylab
 https://vod.splay.uz/live_splay/original/Dunyoboylab_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/c037c019-f6e7-41fb-8001-d5adeec3b69a.png" group-title="O'zbekiston", O'zbekiston tarixi
+#EXTINF:-1 group-title="O'zbekiston", O'zbekiston tarixi
 https://vod.splay.uz/live_splay/original/Uzbekiston-TarixiHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/5e8a53f0-c142-4e88-887b-df7491f6d0fe.png" group-title="O'zbekiston", Kinoteatr
+#EXTINF:-1 group-title="O'zbekiston", Kinoteatr
 https://vod.splay.uz/live_splay/original/Kinoteatr_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.uzd.udevs.io/uzdigital-images-compressed/images/1e4ee1ad-c3d4-4131-bc43-74b7a1e29ea2.png" group-title="O'zbekiston", Navo
+#EXTINF:-1 group-title="O'zbekiston", Navo
 https://vod.splay.uz/live_splay/original/Navo/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.uzd.udevs.io/uzdigital-images-compressed/images/a6bd8e61-84e3-440e-b2d1-d34b3c7a90ab.jpg" group-title="O'zbekiston", TTV Musiqa
+#EXTINF:-1 group-title="O'zbekiston", TTV Musiqa
 https://vod.splay.uz/live_splay/original/TTV_Musiqa/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/257d6f2f-a233-4e37-8767-af7d224876f8.png" group-title="O'zbekiston", Mahalla
+#EXTINF:-1 group-title="O'zbekiston", Mahalla
 https://vod.splay.uz/live_splay/original/Mahalla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/61708bfe-535d-4e03-81aa-5a949b9ba443.png" group-title="O'zbekiston", Bolajon
+#EXTINF:-1 group-title="O'zbekiston", Bolajon
 https://vod.splay.uz/live_splay/original/Bolajon/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2025/02/07/9f3be78e-6f6a-418f-8ccb-d88dd7c16729.jpeg" group-title="O'zbekiston", Futbol TV
+#EXTINF:-1 group-title="O'zbekiston", Futbol TV
 https://vod.splay.uz/live_splay/original/FutbolTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2022/12/02/85251811-aae5-4eea-84a6-145d713229f5.png" group-title="O'zbekiston", FTV
+#EXTINF:-1 group-title="O'zbekiston", FTV
 https://vod.splay.uz/live_splay/original/FTVHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2024/02/20/8f0b15f3-746e-425a-9057-ad1efbb274ec.jpeg" group-title="O'zbekiston", Муз-ТВ (O'zbekiston)
+#EXTINF:-1 group-title="O'zbekiston", Муз-ТВ (O'zbekiston)
 https://vod.splay.uz/live_splay/original/Muz_TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/b9089482-082f-4eda-8b62-4de6c92b541f.png" group-title="O'zbekiston", Zo'r-TV
+#EXTINF:-1 group-title="O'zbekiston", Zo'r-TV
 https://vod.splay.uz/live_splay/original/Zor_TVHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2021/12/14/044a1ecc-cf92-4c32-8a8b-54ce07c69546.png" group-title="O'zbekiston", Milliy TV
+#EXTINF:-1 group-title="O'zbekiston", Milliy TV
 https://vod.splay.uz/live_splay/original/Milly_TVHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2021/12/14/add3022f-0964-470f-acee-4441c9d49201.png" group-title="O'zbekiston", My5
+#EXTINF:-1 group-title="O'zbekiston", My5
 https://vod.splay.uz/live_splay/original/Mening_YurtimHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/035fe5e3-f968-45fd-93af-31e4b91cdebf.png" group-title="O'zbekiston", Sevimli
+#EXTINF:-1 group-title="O'zbekiston", Sevimli
 http://95.85.109.219:7000/play/a05g
-#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/16//486ab75fe90f29227f3d114adf7ff3e7-q-500x500.jpeg" group-title="O'zbekiston", 8TV
+#EXTINF:-1 group-title="O'zbekiston", 8TV
 http://95.85.109.219:7000/play/a05j
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2022/01/26/5b5a44ad-da45-4ba1-98ff-62913ef1d4c9.png" group-title="O'zbekiston", Nurafshon TV
+#EXTINF:-1 group-title="O'zbekiston", Nurafshon TV
 https://vod.splay.uz/live_splay/original/Nurafshon_TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2021/04/27/4db20de5-0bb9-4126-b12e-908d327ecf70.png" group-title="O'zbekiston", Dasturxon
+#EXTINF:-1 group-title="O'zbekiston", Dasturxon
 https://vod.splay.uz/live_splay/original/DasturxonTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2023/08/14/23bab5dc-4a74-4db8-8a30-6b10918cdd4f.png" group-title="O'zbekiston", MYDAYTV
+#EXTINF:-1 group-title="O'zbekiston", MYDAYTV
 https://vod.splay.uz/live_splay/original/Myday/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2024/01/30/e2b9fdd9-560a-494f-bf8f-4a085d042624.jpeg" group-title="O'zbekiston", LuxTV
+#EXTINF:-1 group-title="O'zbekiston", LuxTV
 https://vod.splay.uz/live_splay/original/LuxTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/hjSBke6Y6pJhbAZQZdH59uY5rmm_MlDph8-CvJxg86pKwMdEE9598T52LAUrci9e2VZg=w240-h480-rw" group-title="O'zbekiston", Tasix-Media
+#EXTINF:-1 group-title="O'zbekiston", Tasix-Media
 https://tt.tas-ix.media:444/telegram/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cp.biz-media.org/media/portfolio/solnechniy_WtxdGnG.png" group-title="O'zbekiston", Солнечный тв
+#EXTINF:-1 group-title="O'zbekiston", Солнечный тв
 https://fl.biztv.media/stv_1080_bizstvvietfujeyrah/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2025/01/28/dbe98084-792d-4954-bc01-fc658317e3bf.png" group-title="O'zbekiston", Makon TV
+#EXTINF:-1 group-title="O'zbekiston", Makon TV
 https://st1.uzdigital.tv/Makon_TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2023/09/11/1285670f-8da5-4d02-a789-70031bec9c95.png" group-title="O'zbekiston", RTV
+#EXTINF:-1 group-title="O'zbekiston", RTV
 https://vod.splay.uz/live_splay/original/Renessans_TV/tracks-v1a1/mono.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/uztv.webp" group-title="O'zbekiston",O'zbekiston
+#EXTINF:-1 group-title="O'zbekiston",O'zbekiston
 https://stream1.cinerama.uz/1001/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/yosh.webp" group-title="O'zbekiston",Yoshlar
+#EXTINF:-1 group-title="O'zbekiston",Yoshlar
 https://stream1.cinerama.uz/1002/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/tosh.webp" group-title="O'zbekiston",Toshkent
+#EXTINF:-1 group-title="O'zbekiston",Toshkent
 https://stream1.cinerama.uz/1003/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/my5.webp" group-title="O'zbekiston",My5
+#EXTINF:-1 group-title="O'zbekiston",My5
 https://stream1.cinerama.uz/1012/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/my5i.png" group-title="O'zbekiston",My5 International
+#EXTINF:-1 group-title="O'zbekiston",My5 International
 https://st.my5.media/hls/fullhd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/milliy.webp" group-title="O'zbekiston",Milliy TV
+#EXTINF:-1 group-title="O'zbekiston",Milliy TV
 https://stream1.cinerama.uz/1014/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/zur.webp" group-title="O'zbekiston",Zo'r-TV
+#EXTINF:-1 group-title="O'zbekiston",Zo'r-TV
 https://stream1.cinerama.uz/1016/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/sev.webp" group-title="O'zbekiston",Sevimli
+#EXTINF:-1 group-title="O'zbekiston",Sevimli
 https://stream1.cinerama.uz/1017/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/lux.webp" group-title="O'zbekiston",LuxTV
+#EXTINF:-1 group-title="O'zbekiston",LuxTV
 https://stream1.cinerama.uz/1210/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/iqbol.webp" group-title="O'zbekiston",I-kbol
+#EXTINF:-1 group-title="O'zbekiston",I-kbol
 https://stream1.cinerama.uz/1282/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/istiq.webp" group-title="O'zbekiston",Istiqlol TV
+#EXTINF:-1 group-title="O'zbekiston",Istiqlol TV
 https://stream1.cinerama.uz/1283/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/ntv.webp" group-title="O'zbekiston",ntv (o'zbekiston)
+#EXTINF:-1 group-title="O'zbekiston",ntv (o'zbekiston)
 https://stream1.cinerama.uz/1284/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/ntv.webp" group-title="O'zbekiston",Gold TV
+#EXTINF:-1 group-title="O'zbekiston",Gold TV
 https://stream8.cinerama.uz/4007/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/farg.jpeg" group-title="O'zbekiston",Farg'ona
+#EXTINF:-1 group-title="O'zbekiston",Farg'ona
 https://stream1.cinerama.uz/1458/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/xor.jpeg" group-title="O'zbekiston",Xorazm
+#EXTINF:-1 group-title="O'zbekiston",Xorazm
 https://stream1.cinerama.uz/1464/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/qaraqal.webp" group-title="O'zbekiston",Qaraqalpaqstan
+#EXTINF:-1 group-title="O'zbekiston",Qaraqalpaqstan
 https://stream1.cinerama.uz/1467/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/ruxs.webp" group-title="O'zbekiston",Ruxsor TV
+#EXTINF:-1 group-title="O'zbekiston",Ruxsor TV
 https://stream1.cinerama.uz/1260/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/nuraf.webp" group-title="O'zbekiston",",Nurafshon
+#EXTINF:-1 group-title="O'zbekiston",",Nurafshon
 https://stream1.cinerama.uz/1220/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/taraqq.webp" group-title="O'zbekiston",Taraqqiyot tv
+#EXTINF:-1 group-title="O'zbekiston",Taraqqiyot tv
 https://stream1.cinerama.uz/1204/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/stv.webp" group-title="O'zbekiston",Солнечный тв
+#EXTINF:-1 group-title="O'zbekiston",Солнечный тв
 https://fl.biztv.media/stv_1080_bizstvvietfujeyrah/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/sevimlijon.webp" group-title="O'zbekiston",Sevimlijon
+#EXTINF:-1 group-title="O'zbekiston",Sevimlijon
 https://stream1.cinerama.uz/1477/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/mimi.jpeg" group-title="O'zbekiston",MiMi
+#EXTINF:-1 group-title="O'zbekiston",MiMi
 https://fl.biztv.media/MiMiTV_1080/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/bola.webp" group-title="O'zbekiston",Bolajon
+#EXTINF:-1 group-title="O'zbekiston",Bolajon
 https://stream1.cinerama.uz/1007/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/aql.webp" group-title="O'zbekiston",Aqlvoy
+#EXTINF:-1 group-title="O'zbekiston",Aqlvoy
 https://stream1.cinerama.uz/1205/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/ttv1.webp" group-title="O'zbekiston",TTV Telekanal
+#EXTINF:-1 group-title="O'zbekiston",TTV Telekanal
 https://stream2.cinerama.uz/1494/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/ttv2.webp" group-title="O'zbekiston",TTV Kino
+#EXTINF:-1 group-title="O'zbekiston",TTV Kino
 https://stream2.cinerama.uz/1486/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/ttv2.webp" group-title="O'zbekiston",tasix-media kino
+#EXTINF:-1 group-title="O'zbekiston",tasix-media kino
 https://tt.tas-ix.media:444/telegram/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/cinema.webp" group-title="O'zbekiston",Cinema (uzb)
+#EXTINF:-1 group-title="O'zbekiston",Cinema (uzb)
 https://stream1.cinerama.uz/1498/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/biz1.webp" group-title="O'zbekiston",BIZ TV
+#EXTINF:-1 group-title="O'zbekiston",BIZ TV
 https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj92in3d/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/biz2.webp" group-title="O'zbekiston",BIZ Cinema
+#EXTINF:-1 group-title="O'zbekiston",BIZ Cinema
 https://stream1.cinerama.uz/1213/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/itv1.webp" group-title="O'zbekiston",",Itv Cinema
+#EXTINF:-1 group-title="O'zbekiston",",Itv Cinema
 https://fl.biztv.media/iTV-Cinema/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=2a7523f2fb4d023274cfbc2444d32bdfb9230c7a-1f3a122a3f1ac75b553844f2b0aafed2-1740769711-1740748111
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/kinot.webp" group-title="O'zbekiston",Kinoteatr
+#EXTINF:-1 group-title="O'zbekiston",Kinoteatr
 https://stream1.cinerama.uz/1009/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/shifo.png" group-title="O'zbekiston",Shifo TV
+#EXTINF:-1 group-title="O'zbekiston",Shifo TV
 https://st1.biztv.media/checksiztv_1080/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/travel.webp" group-title="O'zbekiston",Travel-tv (O'zbekiston)
+#EXTINF:-1 group-title="O'zbekiston",Travel-tv (O'zbekiston)
 https://fl.biztv.media/TabiatTV_1080/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/smusic.webp" group-title="O'zbekiston",Globus Music
+#EXTINF:-1 group-title="O'zbekiston",Globus Music
 https://stream2.cinerama.uz/1476/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/biz3.webp" group-title="O'zbekiston",BIZ Music
+#EXTINF:-1 group-title="O'zbekiston",BIZ Music
 https://stream1.cinerama.uz/1212/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/muz.png" group-title="O'zbekiston",Муз-тв (o'zbekiston)
+#EXTINF:-1 group-title="O'zbekiston",Муз-тв (o'zbekiston)
 https://stream1.cinerama.uz/1063/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/ttvm.webp" group-title="O'zbekiston",TTV Musiqa
+#EXTINF:-1 group-title="O'zbekiston",TTV Musiqa
 https://fl.biztv.media/TTV_Musiqa/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=6079c9f3e31b2b60b29ed4ed51bba2a81b6c14c9-fa775c66ace8332c9645b051fc84fb64-1740844463-1740822863
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/navo.webp" group-title="O'zbekiston",Navo
+#EXTINF:-1 group-title="O'zbekiston",Navo
 https://stream1.cinerama.uz/1008/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/ftv.webp" group-title="O'zbekiston",FTV
+#EXTINF:-1 group-title="O'zbekiston",FTV
 https://stream1.cinerama.uz/1018/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/live.png" group-title="O'zbekiston",Live TV
+#EXTINF:-1 group-title="O'zbekiston",Live TV
 https://stream1.cinerama.uz/1475/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/myd.webp" group-title="O'zbekiston",MYDAYTV
+#EXTINF:-1 group-title="O'zbekiston",MYDAYTV
 https://stream1.cinerama.uz/1265/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/biznes.png" group-title="O'zbekiston",Biznes TV
+#EXTINF:-1 group-title="O'zbekiston",Biznes TV
 https://fl.biztv.media/BiznesTV_1080/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/madan.webp" group-title="O'zbekiston",Madaniyat va ma'rifat
+#EXTINF:-1 group-title="O'zbekiston",Madaniyat va ma'rifat
 https://stream1.cinerama.uz/1005/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/dtv.webp" group-title="O'zbekiston",Dasturxon
+#EXTINF:-1 group-title="O'zbekiston",Dasturxon
 https://stream1.cinerama.uz/1206/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/dunyo.webp" group-title="O'zbekiston",Dunyo Bo'ylab
+#EXTINF:-1 group-title="O'zbekiston",Dunyo Bo'ylab
 https://stream1.cinerama.uz/1006/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/renessans.webp" group-title="O'zbekiston",RTV
-https://fl.biztv.media/renessans_tv/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=43cc74f7d60a4fecbbf8c00224f2d8acca2690ac-24e9c690ca5c16918a975aa7555b3dbd-1740797055-1740775455
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/uz24.webp" group-title="O'zbekiston",O'zbekiston-24
+#EXTINF:-1 group-title="O'zbekiston",O'zbekiston-24
 https://stream1.cinerama.uz/1011/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/tarix.webp" group-title="O'zbekiston",O'zbekiston tarixi
+#EXTINF:-1 group-title="O'zbekiston",O'zbekiston tarixi
 https://stream1.cinerama.uz/1209/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/mahO'zbekistona.webp" group-title="O'zbekiston",MahO'zbekistona
+#EXTINF:-1 group-title="O'zbekiston",MahO'zbekistona
 https://stream1.cinerama.uz/1013/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/report.webp" group-title="O'zbekiston",Uzreport
+#EXTINF:-1 group-title="O'zbekiston",Uzreport
 https://stream1.cinerama.uz/1015/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/sport.webp" group-title="O'zbekiston",Sport uz
+#EXTINF:-1 group-title="O'zbekiston",Sport uz
 https://stream1.cinerama.uz/1004/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/sport.webp" group-title="O'zbekiston",Bilol
+#EXTINF:-1 group-title="O'zbekiston",Bilol
 https://cache8.cinerama.uz:473/hls/converted/Video/multiki/Bilal/BilalANewBreedofHero.2018.Pk.WEB-DLRip.14OOMB.mp4/index-v1.m3u8
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/sport.webp" group-title="O'zbekiston",ubetsa
+#EXTINF:-1 group-title="O'zbekiston",ubetsa
 https://cache8.cinerama.uz:473/hls/converted/Video/HDVideo/Sicario.2015.BDRip.1080p.mp4/index-v1.m3u8
 
 
@@ -1312,19 +1310,19 @@ https://cache8.cinerama.uz:473/hls/converted/Video/HDVideo/Sicario.2015.BDRip.10
 
 
 
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kazakhstan.png" group-title="Казахстан" tvg-id="4289" catchup="default" tvg-rec="48",Abai TV
+#EXTINF:-1 group-title="Казахстан" tvg-id="4289" catchup="default" tvg-rec="48",Abai TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kazakhstan.png" group-title="Казахстан" catchup="default" tvg-rec="48",Qazaqstan TV International
+#EXTINF:-1 group-title="Казахстан" catchup="default" tvg-rec="48",Qazaqstan TV International
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kazakhstan.png" group-title="Казахстан" catchup="default" tvg-rec="48",МТРК
+#EXTINF:-1 group-title="Казахстан" catchup="default" tvg-rec="48",МТРК
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kazakhstan.png" group-title="Казахстан" tvg-id="232" catchup="default" tvg-rec="48",Новое телевидение
+#EXTINF:-1 group-title="Казахстан" tvg-id="232" catchup="default" tvg-rec="48",Новое телевидение
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/kazakhstan.png" group-title="Казахстан" catchup="default" tvg-rec="48",Balapan TV
+#EXTINF:-1 group-title="Казахстан" catchup="default" tvg-rec="48",Balapan TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
 #EXTINF:-1 group-title="Казахстан",Amedia 1
@@ -1430,67 +1428,67 @@ http://217.174.225.146/hls/ch007_720/index.m3u8
 
 
 
-#EXTINF:0 group-title="Украина",ICTV HD
+#EXTINF:-1 group-title="Украина",ICTV HD
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/400272759
-#EXTINF:0 group-title="Украина",KVARTAL TV SD
+#EXTINF:-1 group-title="Украина",KVARTAL TV SD
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/400272755
-#EXTINF:0 group-title="Украина",K2 SD
+#EXTINF:-1 group-title="Украина",K2 SD
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/400272756
-#EXTINF:0 group-title="Украина",M1 HD
+#EXTINF:-1 group-title="Украина",M1 HD
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/400272754
-#EXTINF:0 group-title="Украина",M2 HD
+#EXTINF:-1 group-title="Украина",M2 HD
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/131522
-#EXTINF:0 group-title="Украина",NOVY KANAL HD
+#EXTINF:-1 group-title="Украина",NOVY KANAL HD
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/400272749
-#EXTINF:0 group-title="Украина",NIKI KIDS FHD
+#EXTINF:-1 group-title="Украина",NIKI KIDS FHD
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/400272751
-#EXTINF:0 group-title="Украина",NEWS NETWORK FHD
+#EXTINF:-1 group-title="Украина",NEWS NETWORK FHD
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/400272752
-#EXTINF:0 group-title="Украина",RADA SD
+#EXTINF:-1 group-title="Украина",RADA SD
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/131527
-#EXTINF:0 group-title="Украина",STB HD
+#EXTINF:-1 group-title="Украина",STB HD
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/400272746
-#EXTINF:0 group-title="Украина",SONCE TV SD
+#EXTINF:-1 group-title="Украина",SONCE TV SD
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/400272747
-#EXTINF:0 group-title="Украина",TET HD
+#EXTINF:-1 group-title="Украина",TET HD
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/195783
-#EXTINF:0 group-title="Украина",HTH HD
+#EXTINF:-1 group-title="Украина",HTH HD
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/400272744
-#EXTINF:0 group-title="Украина",UA TV HD
+#EXTINF:-1 group-title="Украина",UA TV HD
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/131533
-#EXTINF:0 group-title="Украина",UNIAN TV HD
+#EXTINF:-1 group-title="Украина",UNIAN TV HD
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/195784
-#EXTINF:0 group-title="Украина",VINTAGE TV HD
+#EXTINF:-1 group-title="Украина",VINTAGE TV HD
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/400272742
-#EXTINF:0 group-title="Украина",ZOOM HD
+#EXTINF:-1 group-title="Украина",ZOOM HD
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/400272740
-#EXTINF:0 group-title="Украина",1 1 HD
+#EXTINF:-1 group-title="Украина",1 1 HD
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/195772
-#EXTINF:0 group-title="Украина",NEWS 24 SD
+#EXTINF:-1 group-title="Украина",NEWS 24 SD
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/110228
-#EXTINF:0 group-title="Украина",PESHIY SD
+#EXTINF:-1 group-title="Украина",PESHIY SD
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/78635
-#EXTINF:0 group-title="Украина",MILADY TELEVISION SD
+#EXTINF:-1 group-title="Украина",MILADY TELEVISION SD
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/78636
-#EXTINF:0 group-title="Украина",CULTURE!
+#EXTINF:-1 group-title="Украина",CULTURE!
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/473170
-#EXTINF:0 group-title="Украина",PIXEL
+#EXTINF:-1 group-title="Украина",PIXEL
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/473171
-#EXTINF:0 group-title="Украина",NTN
+#EXTINF:-1 group-title="Украина",NTN
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/473175
-#EXTINF:0 group-title="Украина",NIKI Junior
+#EXTINF:-1 group-title="Украина",NIKI Junior
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/473176
-#EXTINF:0 group-title="Украина",BIGUDI
+#EXTINF:-1 group-title="Украина",BIGUDI
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/473177
-#EXTINF:0 group-title="Украина",1+1 INTERNATIONAL
+#EXTINF:-1 group-title="Украина",1+1 INTERNATIONAL
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/473178
-#EXTINF:0 group-title="Украина",1+1
+#EXTINF:-1 group-title="Украина",1+1
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/473179
-#EXTINF:0 group-title="Украина",UA KRYM 24
+#EXTINF:-1 group-title="Украина",UA KRYM 24
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/473182
-#EXTINF:0 group-title="Украина",QTV
+#EXTINF:-1 group-title="Украина",QTV
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/473183
-#EXTINF:0 group-title="Украина",KIEV STB
+#EXTINF:-1 group-title="Украина",KIEV STB
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/473185
 #EXTINF:-1 catchup="default" catchup-days="6" catchup-source="https://ext.cdn.nashnet.tv/228.0.2.45/${start}-${end}/index.m3u8" group-title="Украина" , UA:Перший
 https://ext.cdn.nashnet.tv/228.0.2.45/index.m3u8
@@ -1568,70 +1566,70 @@ https://ext.cdn.nashnet.tv/228.0.2.165/index.m3u8
 
 #EXTGRP:Азербайджан
 https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/T1YxKZSh/785cfca9083712aedfed84b91a0f00e8.png",ATV ᵀᵛˢʰᵃᵐ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T1YxKZSh/785cfca9083712aedfed84b91a0f00e8.png",ATV ᵀᵛˢʰᵃᵐ
 #EXTGRP:Азербайджан
 https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_720p1500kbps.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
-#EXTINF:0 tvg-logo="http://assets.tvcdn.net/debb1b49-4809-413b-8418-6c176181a1d6.png",AZSTAR TV ᵀᵛˢʰᵃᵐ
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/debb1b49-4809-413b-8418-6c176181a1d6.png",AZSTAR TV ᵀᵛˢʰᵃᵐ
 #EXTGRP:Азербайджан
 http://live.azstartv.com/azstar/azstar_1080p/playlist.m3u8
-#EXTINF:0 tvg-logo="http://assets.tvcdn.net/8bcd2f7a-d53e-4ef2-9fc6-03e32c7f7465.png",LİVE TV ᵀᵛˢʰᵃᵐ
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/8bcd2f7a-d53e-4ef2-9fc6-03e32c7f7465.png",LİVE TV ᵀᵛˢʰᵃᵐ
 #EXTGRP:Азербайджан
 https://tv.mobyservice.ru/livetv/index.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/HkgvYQ7P/K-p-z-TV-2019.png",KƏPƏZ TV ᵀᵛˢʰᵃᵐ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HkgvYQ7P/K-p-z-TV-2019.png",KƏPƏZ TV ᵀᵛˢʰᵃᵐ
 #EXTGRP:Азербайджан
 http://85.132.78.122:8050/dashjs/stream/index.mpd
-#EXTINF:0 tvg-logo="https://i.postimg.cc/fyZQ0k2w/In-Shot-20250209-204537485.png",KÖNÜL TV ᵀᵛˢʰᵃᵐ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fyZQ0k2w/In-Shot-20250209-204537485.png",KÖNÜL TV ᵀᵛˢʰᵃᵐ
 #EXTGRP:Азербайджан
 http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/HWKX9dYw/Alvin-Channel-logo-1.png",ALVİN CHANNEL ᵀᵛˢʰᵃᵐ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HWKX9dYw/Alvin-Channel-logo-1.png",ALVİN CHANNEL ᵀᵛˢʰᵃᵐ
 #EXTGRP:Азербайджан
 http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/KYvDsfdB/logo.png",VİLAYƏT TV ᵀᵛˢʰᵃᵐ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KYvDsfdB/logo.png",VİLAYƏT TV ᵀᵛˢʰᵃᵐ
 #EXTGRP:Азербайджан
 https://nl.livekadeh.com/hls2/vilayet_high.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/DZGJCby1/logo-hadi-tv.png",HADİ TV ᵀᵛˢʰᵃᵐ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZGJCby1/logo-hadi-tv.png",HADİ TV ᵀᵛˢʰᵃᵐ
 #EXTGRP:Азербайджан
 https://live.ishiacloud.com/hls/1d6e10dc-7bfc-4abb-9bb3-0dfe80b3d7df_720p.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/tJRmj6vV/In-Shot-20250209-204833425.png",ZAHRA TV ᵀᵛˢʰᵃᵐ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tJRmj6vV/In-Shot-20250209-204833425.png",ZAHRA TV ᵀᵛˢʰᵃᵐ
 #EXTGRP:Азербайджан
 https://ak.imamhussein.live/alzahratvlive/alzahra.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/tTHbdTrg/Azerbaijan-Province-TV-logo.png",AZERBAİJAN GHARBİ ᵀᵛˢʰᵃᵐ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tTHbdTrg/Azerbaijan-Province-TV-logo.png",AZERBAİJAN GHARBİ ᵀᵛˢʰᵃᵐ
 #EXTGRP:Азербайджан
 https://lenz.splus.ir/PLTV/88888888/224/3221226800/index.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/pTRPMbdh/In-Shot-20250303-143546125.png",MAHNI TV ᵀᵛˢʰᵃᵐ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pTRPMbdh/In-Shot-20250303-143546125.png",MAHNI TV ᵀᵛˢʰᵃᵐ
 #EXTGRP:Азербайджан
 http://xantv.site:41480/MahniTV/video.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/pXQ8b7b4/icon.png",AYAZ TV ᵀᵛˢʰᵃᵐ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXQ8b7b4/icon.png",AYAZ TV ᵀᵛˢʰᵃᵐ
 #EXTGRP:Азербайджан
 https://janya-ayaztv.vgcdn.net/ptnr-Vipo%20TV/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_1500k.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/PJbFG4MH/In-Shot-20250209-195400220.png",MUSİC AZERBAYCAN ᵀᵛˢʰᵃᵐ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJbFG4MH/In-Shot-20250209-195400220.png",MUSİC AZERBAYCAN ᵀᵛˢʰᵃᵐ
 #EXTGRP:Азербайджан
 https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/vHMNrJQZ/In-Shot-20250209-195632491.png",SİRİUS TV ᵀᵛˢʰᵃᵐ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vHMNrJQZ/In-Shot-20250209-195632491.png",SİRİUS TV ᵀᵛˢʰᵃᵐ
 #EXTGRP:Азербайджан
 https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1siriustv.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/9f6S1tYH/In-Shot-20250222-184002920.png",GƏNCƏ TV ᵀᵛˢʰᵃᵐ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9f6S1tYH/In-Shot-20250222-184002920.png",GƏNCƏ TV ᵀᵛˢʰᵃᵐ
 #EXTGRP:Азербайджан
 https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1ganjatv.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/KYd9RVqF/In-Shot-20250209-195931309.png",SON ÜMİD TV ᵀᵛˢʰᵃᵐ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KYd9RVqF/In-Shot-20250209-195931309.png",SON ÜMİD TV ᵀᵛˢʰᵃᵐ
 #EXTGRP:Азербайджан
 https://cdn-sonumidtv.yayin.com.tr/sonumidtv/sonumidtv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/28X3LrFq/kiss-cut-stickers-5-5x5-5-default-61560d802b93c.png",RETRO TV ᵀᵛˢʰᵃᵐ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/28X3LrFq/kiss-cut-stickers-5-5x5-5-default-61560d802b93c.png",RETRO TV ᵀᵛˢʰᵃᵐ
 #EXTGRP:Азербайджан
 https://a8.radyotelekom.com.tr:3706/stream/play.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/J0xx5G4C/In-Shot-20250324-081151799.png",ŞİRVAN TV ᵀᵛˢʰᵃᵐ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0xx5G4C/In-Shot-20250324-081151799.png",ŞİRVAN TV ᵀᵛˢʰᵃᵐ
 #EXTGRP:Азербайджан
 https://a8.radyotelekom.com.tr:3326/stream/play.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/2yv3Cqqr/In-Shot-20250209-203412332.png",YURD FM TV ᵀᵛˢʰᵃᵐ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2yv3Cqqr/In-Shot-20250209-203412332.png",YURD FM TV ᵀᵛˢʰᵃᵐ
 #EXTGRP:Азербайджан
 https://restreamer.livetv.az/memfs/a6cecb21-e17c-4f32-8854-0b72d57211d8.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/T2WKVstF/admin-ajax.png",MEDİA FM TV ᵀᵛˢʰᵃᵐ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T2WKVstF/admin-ajax.png",MEDİA FM TV ᵀᵛˢʰᵃᵐ
 #EXTGRP:Азербайджан
 https://restreamer.livetv.az/memfs/a2076877-77f5-46f4-9b26-2396fbed8d82.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/Fsy1qL5x/In-Shot-20250209-203727551.png",106 FM ᵀᵛˢʰᵃᵐ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fsy1qL5x/In-Shot-20250209-203727551.png",106 FM ᵀᵛˢʰᵃᵐ
 #EXTGRP:Азербайджан
 https://stream.atv.az/WebRTCAppEE/streams/612758375034657638703581_adaptive.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/7ZqbyZqr/106-3-white.png",106.3 FM ᵀᵛˢʰᵃᵐ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZqbyZqr/106-3-white.png",106.3 FM ᵀᵛˢʰᵃᵐ
 #EXTGRP:Азербайджан
 https://stream.atv.az/WebRTCAppEE/streams/517878792239218486180700_adaptive.m3u8
 
@@ -1656,70 +1654,70 @@ https://stream.atv.az/WebRTCAppEE/streams/517878792239218486180700_adaptive.m3u8
 
 
 
-#EXTINF:0 tvg-logo="https://i.postimg.cc/YC4FPSR2/In-Shot-20250209-215704320.png",TABİİ TV ᵀᵛˢʰᵃᵐ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YC4FPSR2/In-Shot-20250209-215704320.png",TABİİ TV ᵀᵛˢʰᵃᵐ
 #EXTGRP:Турция
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/PxH8NQjN/Atv-logo-2010-svg.png",ATV ᵀᵛˢʰᵃᵐ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PxH8NQjN/Atv-logo-2010-svg.png",ATV ᵀᵛˢʰᵃᵐ
 #EXTGRP:Турция
 http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/xT8NkdWG/NOW-TV-Turkey-wordmark-red-svg.png",NOW TV ᵀᵛˢʰᵃᵐ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xT8NkdWG/NOW-TV-Turkey-wordmark-red-svg.png",NOW TV ᵀᵛˢʰᵃᵐ
 #EXTGRP:Турция
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/PrSc4SVs/In-Shot-20250209-224757709.png",KANAL 7 ᵀᵛˢʰᵃᵐ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PrSc4SVs/In-Shot-20250209-224757709.png",KANAL 7 ᵀᵛˢʰᵃᵐ
 #EXTGRP:Турция
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/LXF0Xw5f/In-Shot-20250209-224919699.png",360 TV ᵀᵛˢʰᵃᵐ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/LXF0Xw5f/In-Shot-20250209-224919699.png",360 TV ᵀᵛˢʰᵃᵐ
 #EXTGRP:Турция
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/R0hvd3LG/TV4-logo-2022-Current.png",TV4 ᵀᵛˢʰᵃᵐ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0hvd3LG/TV4-logo-2022-Current.png",TV4 ᵀᵛˢʰᵃᵐ
 #EXTGRP:Турция
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/c1m5xDSg/TRT-T-rk-logo-svg.png",TRT TURK ᵀᵛˢʰᵃᵐ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c1m5xDSg/TRT-T-rk-logo-svg.png",TRT TURK ᵀᵛˢʰᵃᵐ
 #EXTGRP:Турция
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/xCQtYmp3/TRT-Avaz.png",TRT AVAZ ᵀᵛˢʰᵃᵐ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCQtYmp3/TRT-Avaz.png",TRT AVAZ ᵀᵛˢʰᵃᵐ
 #EXTGRP:Турция
 http://stream.tvcdn.net/ulusal-yurt-disi/trt-avaz.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/yxQPFb1L/Euro-Star-loqosu-3-yanvar-2012-indi.png",EUROSTAR ᵀᵛˢʰᵃᵐ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxQPFb1L/Euro-Star-loqosu-3-yanvar-2012-indi.png",EUROSTAR ᵀᵛˢʰᵃᵐ
 #EXTGRP:Турция
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/estar.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/gjTVwLs5/logo-v5.png",EURO D ᵀᵛˢʰᵃᵐ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjTVwLs5/logo-v5.png",EURO D ᵀᵛˢʰᵃᵐ
 #EXTGRP:Турция
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/P5ZWxxw3/In-Shot-20250209-230304310.png",SHOW TURK ᵀᵛˢʰᵃᵐ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5ZWxxw3/In-Shot-20250209-230304310.png",SHOW TURK ᵀᵛˢʰᵃᵐ
 #EXTGRP:Турция
 https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/showturk.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/SRBXF6Dy/TGRT-Belgesel-logo.png",TGRT BELGESEL ᵀᵛˢʰᵃᵐ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRBXF6Dy/TGRT-Belgesel-logo.png",TGRT BELGESEL ᵀᵛˢʰᵃᵐ
 #EXTGRP:Турция
 http://stream.tvcdn.net/belgesel/tgrt-belgesel.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/rpNBfNPX/In-Shot-20250210-120408886.png",TİVİ TÜRK ᵀᵛˢʰᵃᵐ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rpNBfNPX/In-Shot-20250210-120408886.png",TİVİ TÜRK ᵀᵛˢʰᵃᵐ
 #EXTGRP:Турция
 http://stream.tvcdn.net/diger-eglence/tivi-turk.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/QCMn4kZC/Fqf-J37n-Xs-AAD9-2.png",SUPERTÜRK TV ᵀᵛˢʰᵃᵐ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCMn4kZC/Fqf-J37n-Xs-AAD9-2.png",SUPERTÜRK TV ᵀᵛˢʰᵃᵐ
 #EXTGRP:Турция
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/y81PMF49/In-Shot-20250223-113143453.png",KANAL 19 ᵀᵛˢʰᵃᵐ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/y81PMF49/In-Shot-20250223-113143453.png",KANAL 19 ᵀᵛˢʰᵃᵐ
 #EXTGRP:Турция
 https://live.euromediacenter.com/kanal19/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/qMkyq4bH/In-Shot-20250223-114525746.png",CANKIRI TV ᵀᵛˢʰᵃᵐ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMkyq4bH/In-Shot-20250223-114525746.png",CANKIRI TV ᵀᵛˢʰᵃᵐ
 #EXTGRP:Турция
 http://stream.tvcdn.net/yerel/cankiri-tv.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/T2c5ZBR7/logo-97.png",LİFE TV HD ᵀᵛˢʰᵃᵐ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T2c5ZBR7/logo-97.png",LİFE TV HD ᵀᵛˢʰᵃᵐ
 #EXTGRP:Турция
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/BQhLNWhn/logo-88.png",KANAL V ᵀᵛˢʰᵃᵐ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQhLNWhn/logo-88.png",KANAL V ᵀᵛˢʰᵃᵐ
 #EXTGRP:Турция
 http://stream.tvcdn.net/yerel/kanal-v.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/pTxz4fKW/In-Shot-20250228-174647283.png",TORBA TV ᵀᵛˢʰᵃᵐ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pTxz4fKW/In-Shot-20250228-174647283.png",TORBA TV ᵀᵛˢʰᵃᵐ
 #EXTGRP:Турция
 http://stream.tvcdn.net/kibris/torba-tv.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/wjChc8vs/logo-31.png",DENİZ POSTASI TV ᵀᵛˢʰᵃᵐ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjChc8vs/logo-31.png",DENİZ POSTASI TV ᵀᵛˢʰᵃᵐ
 #EXTGRP:Турция
 http://stream.tvcdn.net/diger-eglence/deniz-postasi-tv.m3u8
-#EXTINF:0 tvg-logo="http://assets.tvcdn.net/a72d22fe-9e79-4cac-ad75-67635e6b68c9.png",İSVİÇRE TV ᵀᵛˢʰᵃᵐ
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/a72d22fe-9e79-4cac-ad75-67635e6b68c9.png",İSVİÇRE TV ᵀᵛˢʰᵃᵐ
 #EXTGRP:Турция
 http://stream.tvcdn.net/diger-eglence/isvicre-tv.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/N0WV0rXP/TRT-ocuk-logo-2021-svg.png",TRT COCUK ᵀᵛˢʰᵃᵐ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0WV0rXP/TRT-ocuk-logo-2021-svg.png",TRT COCUK ᵀᵛˢʰᵃᵐ
 #EXTGRP:Турция
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 
